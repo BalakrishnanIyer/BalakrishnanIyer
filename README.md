@@ -9,7 +9,7 @@ Here are some of my most impactful projects:
 📊 World Happiness Index Analysis   
 Description: Analyzing and visualizing world happiness scores to understand key factors that influence happiness across countries.  
 Technologies Used: Python, Pandas, Seaborn, Matplotlib, Jupyter Notebook  
-Repository: World-Happiness-Index  
+Repository: [World-Happiness-Index](https://github.com/BalakrishnanIyer/World-Happiness-Index) 
 
 🏡 Property Price Prediction
 Description: A machine learning model that predicts real estate property prices based on key features like location, size, and amenities.  
@@ -34,9 +34,9 @@ Experimenting with MLOps tools like Kubeflow & MLflow
 Diving deeper into Deep Learning for NLP  
 Exploring Graph Neural Networks (GNNs)  
 📫 Connect With Me  
-💼 LinkedIn  
-📧 Email  
-🔗 Portfolio/Website  
+💼 [LinkedIn](https://www.linkedin.com/in/balakrishnan-iyer-811436143)  
+📧 iyerbalakrishnan98@gmail.com
+
 
 💡 How You Can Support Me  
 If you find my projects interesting or useful, feel free to ⭐ star the repositories or fork them! Contributions and collaborations are always welcome.  
