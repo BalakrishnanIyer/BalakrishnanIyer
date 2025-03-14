@@ -1,4 +1,4 @@
-👋 Hello! I'm Balakrishnan Iyer
+👋 Hello! I'm Balakrishnan Iyer  
 🚀 Financial Data Analyst | Data Scientist | Machine Learning Enthusiast 
 
 I am a passionate data scientist with a strong background in building data-driven solutions, predictive models, and scalable data pipelines. I thrive at the intersection of data analytics and machine learning, solving complex problems with meaningful insights.
