@@ -14,7 +14,7 @@ Repository: [World-Happiness-Index](https://github.com/BalakrishnanIyer/World-Ha
 🏡 Property Price Prediction
 Description: A machine learning model that predicts real estate property prices based on key features like location, size, and amenities.  
 Technologies Used: Python, Scikit-learn, XGBoost, Pandas, Flask (for API)  
-Repository: Property-Prediction  
+Repository: Property-Prediction (https://github.com/BalakrishnanIyer/Price Prediction)
 
 🔥 Advanced Data Pipeline for Yelp & NFT Data Analysis  
 Description: A scalable data pipeline to extract, transform, and load (ETL) Yelp and NFT-related data for further analysis.  
